@@ -6,7 +6,10 @@
 	"installed_packages":
 	[
 		"CSSTidy",
+		"Git",
+		"GitGutter",
 		"HTMLBeautify",
-		"Package Control"
+		"Package Control",
+		"Theme - Soda"
 	]
 }
